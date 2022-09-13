@@ -20,7 +20,7 @@ void DisplayMenu()
     string lastLine = "4. Stäng";
 
     Console.WriteLine($"{title}\n{firstLine}\n{secondLine}\n{thirdLine}\n{lastLine}");
-    Console.Write(">");
+    Console.Write(">\n");
 
 }
 
@@ -36,6 +36,7 @@ void ReadInput()
                 break;
             case 2:
                 Console.WriteLine("Hellre mer i lager än för lite...");
+                OrderMore();
                 break;
             case 3:
                 Console.WriteLine("Vad väntar du på? Börja inventera hyllorna!");
@@ -54,4 +55,11 @@ void ReadInput()
         Console.WriteLine(error);
     }
    
+}
+
+void OrderMore()
+{
+    Console.WriteLine("vad behövs beställas?");
+    string order = Console.ReadLine();
+    Console.WriteLine($"beställer mer {order}\n");
 }

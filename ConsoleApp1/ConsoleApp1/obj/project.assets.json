@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\iths_main\\labb_1\\labb_1_local\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\iths_main\\labb_1\\labb_1_local\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\iths_main\\labb_1\\labb_1_local\\ConsoleApp1\\ConsoleApp1\\Labb.csproj",
+      "projectName": "Labb",
+      "projectPath": "C:\\iths_main\\labb_1\\labb_1_local\\ConsoleApp1\\ConsoleApp1\\Labb.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
       "outputPath": "C:\\iths_main\\labb_1\\labb_1_local\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",

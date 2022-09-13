@@ -1,0 +1,15 @@
+C:\iths_main\labb_1\labb_1_local\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Labb.exe
+C:\iths_main\labb_1\labb_1_local\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Labb.deps.json
+C:\iths_main\labb_1\labb_1_local\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Labb.runtimeconfig.json
+C:\iths_main\labb_1\labb_1_local\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Labb.dll
+C:\iths_main\labb_1\labb_1_local\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Labb.pdb
+C:\iths_main\labb_1\labb_1_local\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Labb.csproj.AssemblyReference.cache
+C:\iths_main\labb_1\labb_1_local\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Labb.GeneratedMSBuildEditorConfig.editorconfig
+C:\iths_main\labb_1\labb_1_local\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Labb.AssemblyInfoInputs.cache
+C:\iths_main\labb_1\labb_1_local\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Labb.AssemblyInfo.cs
+C:\iths_main\labb_1\labb_1_local\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Labb.csproj.CoreCompileInputs.cache
+C:\iths_main\labb_1\labb_1_local\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Labb.dll
+C:\iths_main\labb_1\labb_1_local\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Labb.dll
+C:\iths_main\labb_1\labb_1_local\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Labb.pdb
+C:\iths_main\labb_1\labb_1_local\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Labb.genruntimeconfig.cache
+C:\iths_main\labb_1\labb_1_local\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Labb.dll
